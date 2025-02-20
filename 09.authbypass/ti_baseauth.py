@@ -1,3 +1,4 @@
+# TurboIntruder Brute Force script for Basic Authentication
 import base64
 
 def queueRequests(target, wordlists):
